@@ -10,16 +10,16 @@
             <plural>Requested for emails</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-03-08 03:41:46</sys_created_on>
-            <sys_id>57e174191bea4410c6956356bd4bcb54</sys_id>
+            <sys_created_on>2020-11-16 19:43:26</sys_created_on>
+            <sys_id>ff6d23091b28a0109f8ded3abc4bcb71</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Requested for email</sys_name>
-            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_package display_value="NeedIt Count Problem Records" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
-            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_scope display_value="NeedIt Count Problem Records">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_documentation_x_58872_needit_needit_u_requested_for_email_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-03-08 03:41:46</sys_updated_on>
+            <sys_updated_on>2020-11-16 19:43:26</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

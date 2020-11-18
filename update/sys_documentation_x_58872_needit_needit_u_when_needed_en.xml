@@ -11,12 +11,12 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-01-26 19:08:23</sys_created_on>
-            <sys_id>97e174191bea4410c6956356bd4bcb57</sys_id>
+            <sys_id>bcb2fbc71b1020109f8ded3abc4bcb16</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>When needed</sys_name>
-            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_package display_value="NeedIt Count Problem Records" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
-            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_scope display_value="NeedIt Count Problem Records">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_documentation_x_58872_needit_needit_u_when_needed_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-26 19:08:23</sys_updated_on>
